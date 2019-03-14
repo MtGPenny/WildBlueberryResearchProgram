@@ -49,7 +49,7 @@ include "includes/header.php";
     <b>David Percival</b> <br/>
     Department of Environmental Sciences
     <br/>
-    Email: <a href="mailto:david.percival@dal.ca"> david.percival@dal.ca </a>
+    Email: <a href="mailto:email123@gmail.ca"> email123@gmail.ca </a>
     <br/>
     Phone: (902) 893-7852
     <br/>
